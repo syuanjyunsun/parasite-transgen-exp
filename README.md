@@ -17,6 +17,7 @@ code: unique sample number for each host individual<br/>
 rearing temp: the temperature at which parasites were reared, control = 20°C, warming = 24°C<br/>
 current temp: the temperature at which parasites infected new hosts, control = 20°C, warming = 24°C<br/>
 spore source: the parental source of the spores (i.e., the identity of infected host individual)<br/>
+bodysize: the body size (um) of host individual<br/>
 terminal infection: whether or not a host develops terminal infection, 0 = no infection, 1 = infection<br/>
 lifespan: the lifespan of each host individual from spore exposure to death<br/>
 status: survival status when the experiment ends, 1 = alive, 2 = dead<br/>

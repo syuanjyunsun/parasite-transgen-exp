@@ -12,10 +12,10 @@ The data and code used for this study are available in the main folder of # para
 
 The dataset contains parasite infectivity, reproductive output, and virulence (i.e., the effects on host fecundity and lifespan), across a two-generational study to explore the effect of transgenerational plasticity in the fungal parasite Metschnikowia bicuspidata when infecting a crustacean zooplankton host Daphnia dentifera. This study was conducted in the Duffy Lab at the University of Michigan, Ann Arbor, in March 2022. We used parasite spores reared either at cooler (20°C) or warmer temperatures (24°C), to infect new hosts at 20°C or 24°C, with a fully factorial design. The data were analyzed using R version 4.1.2.
 
-Explanations:
-code: unique sample number for each host individual
-rearing temp: the temperature at which parasites were reared, control = 20°C, warming = 24°C
-current temp: the temperature at which parasites infected new hosts, control = 20°C, warming = 24°C
+Explanations:  
+code: unique sample number for each host individual. 
+rearing temp: the temperature at which parasites were reared, control = 20°C, warming = 24°C. 
+current temp: the temperature at which parasites infected new hosts, control = 20°C, warming = 24°C. 
 spore source: the parental source of the spores (i.e., the identity of infected host individual)
 terminal infection: whether or not a host develops terminal infection, 0 = no infection, 1 = infection
 lifespan: the lifespan of each host individual from spore exposure to death

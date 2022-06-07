@@ -16,24 +16,24 @@ Explanations:
 code: unique sample number for each host individual<br/>
 rearing temp: the temperature at which parasites were reared, control = 20°C, warming = 24°C<br/>
 current temp: the temperature at which parasites infected new hosts, control = 20°C, warming = 24°C<br/>
-spore source: the parental source of the spores (i.e., the identity of infected host individual)
-terminal infection: whether or not a host develops terminal infection, 0 = no infection, 1 = infection
-lifespan: the lifespan of each host individual from spore exposure to death
-status: survival status when the experiment ends, 1 = alive, 2 = dead
-fecundity: total number of offspring produced by the host
-mature spore count1: the first counting of the number of mature spores from a Neubauer hemocytometer
-mature spore count2: the second counting of the number of mature spores from a Neubauer hemocytometer
-mature spore count3: the third counting of the number of mature spores from a Neubauer hemocytometer
-mature spore count4: the fourth counting of the number of mature spores from a Neubauer hemocytometer
-immature spore count1: the first counting of the number of immature spores from a Neubauer hemocytometer
-immature spore count2: the second counting of the number of immature spores from a Neubauer hemocytometer
-immature spore count3: the third counting of the number of immature spores from a Neubauer hemocytometer
-immature spore count4: the fourth counting of the number of immature spores from a Neubauer hemocytometer
-avg mature spore count: averaged number (from count1 to count4) of mature spores from a Neubauer hemocytometer
-avg immature spore count: averaged number (from count1 to count4) of immature spores from a Neubauer hemocytometer
-avg total spore count: averaged number (from count1 to count4) of total spores from a Neubauer hemocytometer
-prop of spore maturation: proportion of spore maturation, i.e., avg mature spore count divided by avg total spore count
-mature spore count controlling for volume: avg mature spore count*10000, i.e., correcting for the volume sampled
-immature spore count controlling for volume: avg immature spore count*10000, i.e., correcting for the volume sampled
-total spore count controlling for volume: avg total spore count*10000, i.e., correcting for the volume sampled
+spore source: the parental source of the spores (i.e., the identity of infected host individual)<br/>
+terminal infection: whether or not a host develops terminal infection, 0 = no infection, 1 = infection<br/>
+lifespan: the lifespan of each host individual from spore exposure to death<br/>
+status: survival status when the experiment ends, 1 = alive, 2 = dead<br/>
+fecundity: total number of offspring produced by the host<br/>
+mature spore count1: the first counting of the number of mature spores from a Neubauer hemocytometer<br/>
+mature spore count2: the second counting of the number of mature spores from a Neubauer hemocytometer<br/>
+mature spore count3: the third counting of the number of mature spores from a Neubauer hemocytometer<br/>
+mature spore count4: the fourth counting of the number of mature spores from a Neubauer hemocytometer<br/>
+immature spore count1: the first counting of the number of immature spores from a Neubauer hemocytometer<br/>
+immature spore count2: the second counting of the number of immature spores from a Neubauer hemocytometer<br/>
+immature spore count3: the third counting of the number of immature spores from a Neubauer hemocytometer<br/>
+immature spore count4: the fourth counting of the number of immature spores from a Neubauer hemocytometer<br/>
+avg mature spore count: averaged number (from count1 to count4) of mature spores from a Neubauer hemocytometer<br/>
+avg immature spore count: averaged number (from count1 to count4) of immature spores from a Neubauer hemocytometer<br/>
+avg total spore count: averaged number (from count1 to count4) of total spores from a Neubauer hemocytometer<br/>
+prop of spore maturation: proportion of spore maturation, i.e., avg mature spore count divided by avg total spore count<br/>
+mature spore count controlling for volume: avg mature spore count*10000, i.e., correcting for the volume sampled<br/>
+immature spore count controlling for volume: avg immature spore count*10000, i.e., correcting for the volume sampled<br/>
+total spore count controlling for volume: avg total spore count*10000, i.e., correcting for the volume sampled<br/>
 
